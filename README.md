@@ -61,6 +61,14 @@
 
 </div>
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yashwaje712/yashwaje712/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%" />
+
+</div>
+
 ## 📈 Contribution Activity
 
 <div align="center">
