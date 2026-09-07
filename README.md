@@ -108,13 +108,17 @@ I enjoy turning concepts into practical software — from **Python and Machine L
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashwaje712/yashwaje712/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashwaje712/yashwaje712/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/yashwaje712/yashwaje712/gh-pages/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
-  </picture>
-</p>
+<div align="center">
+
+<hr>
+
+<img src="https://raw.githubusercontent.com/yashwaje712/yashwaje712/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+
+<hr>
+
+**Build • Evaluate • Improve • Deploy**
+
+</div>
 
 ---
 
