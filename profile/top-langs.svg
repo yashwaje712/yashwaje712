@@ -1,8 +1,8 @@
 
       <svg
-        width="300"
-        height="90"
-        viewBox="0 0 300 90"
+        width="350"
+        height="215"
+        viewBox="0 0 350 215"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -92,7 +92,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="299"
+          width="349"
           fill="#1a1b27"
           stroke-opacity="0"
         />
@@ -120,7 +120,22 @@
           
     <svg data-testid="lang-items" x="25">
       
-    <text x="0" y="11" class="stat bold" fill="#38bdae">No languages data.</text>
+    <g transform="translate(0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Python 100.00%
+      </text>
+    </g>
+  </g>
+      </g>
+
+      <g transform="translate(125, -45)">
+        <svg width="350" height="350"><circle cx="116.66666666666667" cy="116.66666666666667" r="56.66666666666667" stroke="#3572A5" fill="none" stroke-width="12" data-testid="lang-donut" size="100"/></svg>
+      </g>
+    </g>
   
     </svg>
   
