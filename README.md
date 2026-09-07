@@ -50,8 +50,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashwaje712&theme=tokyonight" height="180" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashwaje712&theme=tokyonight" height="180" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwaje712&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
 
 </div>
 
