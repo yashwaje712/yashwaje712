@@ -51,10 +51,10 @@
 <div align="center">
 
 <a href="https://github.com/yashwaje712">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashwaje712&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashwaje712&theme=tokyonight" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/yashwaje712">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwaje712&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashwaje712&theme=tokyonight" alt="Top Languages by Repository" />
 </a>
 
 <br/>
