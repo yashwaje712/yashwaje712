@@ -50,14 +50,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashwaje712&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwaje712&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashwaje712&theme=tokyonight" height="180" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashwaje712&theme=tokyonight" height="180" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yashwaje712&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=yashwaje712&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
