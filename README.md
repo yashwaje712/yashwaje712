@@ -89,7 +89,7 @@ I enjoy turning concepts into practical software — from **Python and Machine L
 
 <p align="center">
   <img src="./profile/stats.svg" width="49%" alt="GitHub statistics" />
-  <img src="./profile/top-langs.svg" width="49%" alt="Top programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,tensorflow,pytorch,opencv&perline=4" width="45%" alt="Core technologies" />
 </p>
 
 <p align="center">
