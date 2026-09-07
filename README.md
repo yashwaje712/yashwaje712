@@ -1,22 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3730a3,100:6d28d9&height=210&section=header&text=YASH%20WAJE&fontSize=58&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descAlignY=64&descSize=18" width="100%" alt="Yash Waje animated profile banner" />
-
-<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=AI+%26+Machine+Learning+Student;Building+Practical+AI+Projects;Exploring+Computer+Vision;Learning+Deep+Learning;Exploring+Generative+AI;Python+%7C+React+%7C+AI+Developer&repeat=true">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=AI+%26+Machine+Learning+Student;Building+Practical+AI+Projects;Exploring+Computer+Vision;Learning+Deep+Learning;Exploring+Generative+AI;Python+%7C+React+%7C+AI+Developer&repeat=true" alt="Typing animation" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=YASH%20WAJE&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20COMPUTER%20VISION%20%7C%20DEEP%20LEARNING%20%7C%20GENERATIVE%20AI&descAlignY=61&descSize=15&color=0:0f172a,45:312e81,75:4f46e5,100:7c3aed&waveColor=0:312e81,100:7c3aed&animation=twinkling" width="100%" alt="Yash Waje profile banner" />
 
 <br>
 
-<a href="https://github.com/yashwaje712">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://github.com/yashwaje712?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-555555?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
-</a>
-<a href="https://github.com/yashwaje712?tab=projects">
-  <img src="https://img.shields.io/badge/PROJECTS-1683D8?style=flat-square&logo=github&logoColor=white" alt="Projects" />
-</a>
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=50&lines=AI+%26+Machine+Learning+Student;Python+Developer+%7C+AI+Builder;Exploring+Computer+Vision+%26+Deep+Learning;Building+Practical+Generative+AI+Projects;Learning+React+for+AI-powered+Applications;Turning+Ideas+into+Real-World+Solutions&repeat=true"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=50&lines=AI+%26+Machine+Learning+Student;Python+Developer+%7C+AI+Builder;Exploring+Computer+Vision+%26+Deep+Learning;Building+Practical+Generative+AI+Projects;Learning+React+for+AI-powered+Applications;Turning+Ideas+into+Real-World+Solutions&repeat=true" alt="Typing animation" /></a>
+
+<br>
+
+<a href="https://github.com/yashwaje712"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/yashwaje712?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/yashwaje712?tab=followers"><img src="https://img.shields.io/github/followers/yashwaje712?style=for-the-badge&logo=github&label=Followers" alt="Followers" /></a>
+
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=yashwaje712&label=PROFILE%20VIEWS&color=4f46e5&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -24,51 +21,79 @@
 
 ## 👋 About Me
 
-I'm **Yash Waje**, an AI & Machine Learning student focused on learning by building practical projects.
+> **AI & Machine Learning student focused on learning, building, and experimenting with modern AI.**
 
-- 🤖 Machine Learning, Deep Learning & Computer Vision
-- 🧠 Exploring modern AI and Generative AI techniques
-- 📊 Data analysis, visualization & problem solving
-- 🐍 Building projects with Python
-- ⚛️ Learning and improving React development
-- 🚀 Interested in turning ideas into useful real-world applications
+I enjoy turning concepts into practical software — from **Python and Machine Learning** to **Computer Vision, Deep Learning, Generative AI, and web applications**.
+
+- 🎓 Focused on **Artificial Intelligence & Machine Learning**
+- 🐍 Building with **Python** and data-driven workflows
+- 👁️ Exploring **Computer Vision** and image-based AI
+- 🧠 Learning **Deep Learning** and model development
+- ✨ Exploring **Generative AI** and modern AI applications
+- ⚛️ Developing my **React** skills for interactive applications
+- 🚀 Goal: build useful projects that solve real-world problems
+
+---
+
+## 🧩 AI Focus Areas
+
+<p align="center">
+
+| 🤖 Machine Learning | 👁️ Computer Vision | 🧠 Deep Learning |
+|:---:|:---:|:---:|
+| Model Building | Image Processing | Neural Networks |
+| Data Analysis | Vision Systems | Model Training |
+| Evaluation | AI Applications | Experimentation |
+
+| ✨ Generative AI | 🐍 Python | ⚛️ React |
+|:---:|:---:|:---:|
+| AI Applications | Automation | Interactive UIs |
+| LLM Exploration | Data Workflows | Frontend Learning |
+| Prompt Experimentation | Prototyping | AI Integration |
+
+</p>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,numpy,pandas,tensorflow,opencv,git,github,vscode&perline=7" alt="Skills and technologies" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,vite,tensorflow,pytorch,opencv,sklearn,numpy,pandas,git,github,vscode&perline=8" alt="Skills and technologies" />
 </p>
 
-### AI / Machine Learning
+<div align="center">
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4f46e5?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7c3aed?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6d28d9?style=for-the-badge&logo=openai&logoColor=white)
 
-### Web Development
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+---
 
-### Tools
+## 🚀 What I'm Building
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Area | Current Direction |
+|---|---|
+| 🤖 **AI / ML** | Practical models and intelligent applications |
+| 👁️ **Computer Vision** | Image-based solutions and experiments |
+| 🧠 **Deep Learning** | Neural-network concepts and model workflows |
+| ✨ **Generative AI** | Exploring modern AI-powered applications |
+| 🐍 **Python** | Data, automation and AI development |
+| ⚛️ **React** | Modern interfaces for AI applications |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile/stats.svg" width="48%" alt="GitHub statistics" />
-  <img src="./profile/top-langs.svg" width="48%" alt="Top languages" />
+  <img src="./profile/stats.svg" width="49%" alt="GitHub statistics" />
+  <img src="./profile/top-langs.svg" width="49%" alt="Top programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashwaje712&theme=tokyonight&hide_border=true&border_radius=12" width="70%" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=yashwaje712&theme=tokyonight&hide_border=true&border_radius=12" width="72%" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -76,7 +101,7 @@ I'm **Yash Waje**, an AI & Machine Learning student focused on learning by build
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="./profile/activity-graph.svg" width="100%" alt="Contribution activity graph" />
+  <img src="./profile/activity-graph.svg" width="100%" alt="GitHub contribution activity" />
 </p>
 
 ---
@@ -87,50 +112,54 @@ I'm **Yash Waje**, an AI & Machine Learning student focused on learning by build
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashwaje712/yashwaje712/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashwaje712/yashwaje712/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/yashwaje712/yashwaje712/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img src="https://raw.githubusercontent.com/yashwaje712/yashwaje712/gh-pages/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
   </picture>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Learning Roadmap
 
 ```text
-Artificial Intelligence      ███████████████████░  90%
-Machine Learning             ██████████████████░░  85%
-Computer Vision              ████████████████░░░░  80%
-Deep Learning                ███████████████░░░░░  75%
-Generative AI                ██████████████░░░░░░  70%
-Python                       ███████████████████░  90%
-React                        ████████████░░░░░░░░  60%
+AI Engineering       ████████████████████  Building
+Machine Learning     ███████████████████░  Building
+Computer Vision      █████████████████░░░  Exploring
+Deep Learning        ████████████████░░░░  Learning
+Generative AI        ███████████████░░░░░  Exploring
+Python               ████████████████████  Building
+React                ████████████░░░░░░░░  Learning
 ```
-
-## 🚀 What I'm Building
-
-- 🤖 Machine Learning projects
-- 👁️ Computer Vision applications
-- 🧠 Deep Learning experiments
-- ✨ Generative AI projects
-- 🐍 Python-based applications
-- ⚛️ React-based web applications
-- 🚀 Practical projects focused on real-world problems
 
 ---
 
-## 📫 Connect With Me
+## 🧠 My Development Philosophy
 
 <div align="center">
 
-<a href="https://github.com/yashwaje712">
-  <img src="https://img.shields.io/badge/GitHub-yashwaje712-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
+**Learn deeply. Build practically. Experiment continuously. Improve consistently.**
+
+<br><br>
+
+`DISCOVER` → `BUILD` → `TEST` → `LEARN` → `IMPROVE` → `SHIP`
 
 </div>
 
+---
+
+## 📫 Let's Connect
+
 <div align="center">
 
-### 💻 Learn • Build • Experiment • Repeat 🚀
+<a href="https://github.com/yashwaje712"><img src="https://img.shields.io/badge/GitHub-yashwaje712-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3730a3,100:6d28d9&height=100&section=footer" width="100%" alt="Footer" />
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 AI • Build • Learn • Repeat 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:312e81&height=110&section=footer" width="100%" alt="Profile footer" />
 
 </div>
