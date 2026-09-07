@@ -65,7 +65,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashwaje712/yashwaje712/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashwaje712/yashwaje712/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashwaje712/yashwaje712/gh-pages/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/yashwaje712/yashwaje712/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%">
+</picture>
 
 </div>
 
@@ -73,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwaje712&theme=tokyo-night&hide_border=true" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwaje712&theme=tokyonight" width="95%" alt="GitHub Contribution Activity" />
 
 </div>
 
