@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Yash Waje
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3730a3,100:6d28d9&height=210&section=header&text=YASH%20WAJE&fontSize=58&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descAlignY=64&descSize=18" width="100%" />
 
-### 🤖 AI & Machine Learning Student | Python Developer | React Learner
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+Machine+Learning+Projects;Exploring+Computer+Vision;Learning+Deep+Learning;Exploring+Generative+AI" alt="Typing SVG" />
+</a>
 
 <p>
   <a href="https://github.com/yashwaje712"><img src="https://komarev.com/ghpvc/?username=yashwaje712&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Yash%20Waje&fontSize=55&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Student&descAlignY=55&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -16,10 +16,11 @@
 
 - 🎓 I'm an **AI & Machine Learning student**.
 - 🐍 I enjoy building projects with **Python** and exploring Machine Learning.
+- 👁️ Interested in **Computer Vision** and intelligent image-based applications.
+- 🧠 Exploring **Deep Learning** and modern AI techniques.
+- ✨ Learning and experimenting with **Generative AI**.
 - ⚛️ Currently learning and improving my **React** skills.
-- 🧠 Interested in **AI, ML, Data Science, and real-world problem solving**.
 - 💡 My goal is to turn ideas into useful, practical software projects.
-- 🌱 Always learning, building, and improving.
 
 ## 🛠️ Tech Stack
 
@@ -29,8 +30,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI / Data Science
+### AI / Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -68,17 +72,21 @@
 ## 🎯 Current Focus
 
 ```text
-Artificial Intelligence     ███████████████████░  90%
-Machine Learning             ██████████████████░░  85%
-Python                       ███████████████████░  90%
-Data Science                 ████████████████░░░░  80%
-React                        ████████████░░░░░░░░  60%
+Artificial Intelligence      ███████████████████░  90%
+Machine Learning              ██████████████████░░  85%
+Computer Vision               ████████████████░░░░  80%
+Deep Learning                 ███████████████░░░░░  75%
+Generative AI                 ██████████████░░░░░░  70%
+Python                        ███████████████████░  90%
+React                         ████████████░░░░░░░░  60%
 ```
 
 ## 🌟 What I'm Building
 
 - 🤖 Machine Learning projects
-- 📊 Data Science and analytics projects
+- 👁️ Computer Vision applications
+- 🧠 Deep Learning experiments
+- ✨ Generative AI projects
 - 🐍 Python-based applications
 - ⚛️ React-based web applications
 - 🚀 Practical projects focused on real-world problems
@@ -97,6 +105,6 @@ React                        ████████████░░░░░
 
 ### 💻 Learn • Build • Experiment • Repeat 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3730a3,100:6d28d9&height=100&section=footer" width="100%" />
 
 </div>
